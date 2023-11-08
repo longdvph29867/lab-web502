@@ -1,0 +1,12 @@
+Lab1: 
+-	Target
+-	allowJs
+-	checkJs
+-	removeComments
+-	noEmit
+-	noEmitOnError
+-	noImplicitAny
+-	strictNullChecks
+-	noFallthroughCasesInSwitch
+-	resolveJsonModule
+
